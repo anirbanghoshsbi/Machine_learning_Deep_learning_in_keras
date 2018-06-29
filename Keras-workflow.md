@@ -1,0 +1,6 @@
+The Keras Workflow consist of the following steps
+1.Load Data
+2.Define Model
+3.Compile Model
+4. Fit Model
+5. Evaluate Model
