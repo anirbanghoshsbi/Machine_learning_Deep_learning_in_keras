@@ -21,6 +21,7 @@ The weighted inputs are passed through an activation function , sometimes called
 layers of neurons stacked over one another. A row of neuron is called layer and one network can have multiple layers.
 1. Input layer :  the layer that feeds in the data.
 2. Hidden layers : any layer between the input layer and the output layer.
+
 3.Output layer : the layer that gives the out prediction.
 a.Linear regression problem might have a single output neuron and the neuron may not have any activation function.
 b.A binary classifier may have single output with an added sigmoid activation function that outputs value between 0 and 1 to predict the class of the primary class.
