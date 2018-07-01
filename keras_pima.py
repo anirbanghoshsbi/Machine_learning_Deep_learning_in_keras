@@ -27,6 +27,7 @@ with open(args['dataset'], 'r') as file:
 		if not row:
 			continue
 		dataset.append(row)
+	return dataset	
 
 #convert the list to numpy array......
 
